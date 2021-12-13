@@ -16,7 +16,7 @@
 
 ---									
 - 🔭 I’m currently working on openEdx domain in [Arbisoft](https://arbisoft.com).
-- 📱 Worked on multiple projects throughout my career varying from e-learning to travel travel to IoT based systems.
+- 📱 Worked on multiple projects throughout my career varying from e-learning to travel to health care systems.
 - 🏢 Past companies: [MindBlaze Tech](https://www.mindblaze.net)
 - Find more about me at https://mataurrehman.github.io
 - 🌱 I’m currently learning *System Design*, GraphQL and **people**.
